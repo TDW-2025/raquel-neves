@@ -19,6 +19,11 @@ export default function Home() {
           </li>
           <li>oii</li>
           <li>Save and see your changes instantly.</li>
+          <li> Teste de prettier</li> <li>mais um teste </li>{" "}
+          <li> Teste de prettier</li> <li>maais um teste </li>{" "}
+          <li> Teste de prettier</li> <li>maais um teste </li>{" "}
+          <li> Teste de prettier</li>
+          <li>maais um teste </li>
         </ol>
 
         <h1>Sou a raquel</h1>

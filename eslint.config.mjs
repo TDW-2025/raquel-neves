@@ -14,7 +14,7 @@ export default defineConfig([
       "public/**",
       "*.config.mjs",
       "package.json",
-      "package-lock.json"
+      "package-lock.json",
     ],
     plugins: { js },
     extends: ["js/recommended"],
