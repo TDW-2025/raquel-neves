@@ -12,7 +12,7 @@ test("renders Home component and displays the heading", () => {
 
   // Verifica se alguns outros textos aparecem//
   expect(screen.getByText(/Get started by editing/i)).toBeInTheDocument();
-  expect(screen.getByText(/oii/i)).toBeInTheDocument();
+  expect(screen.getByText("oiiiii")).toBeInTheDocument();
   expect(
     screen.getByText(/Save and see your changes instantly/i),
   ).toBeInTheDocument();

@@ -24,6 +24,8 @@ export default function Home() {
           <li> Teste de prettier</li> <li>maais um teste </li>{" "}
           <li> Teste de prettier</li>
           <li>maais um teste </li>
+          <li>oiiiii</li>
+          <li>francisco</li>
         </ol>
 
         <h1>Sou a raquel</h1>

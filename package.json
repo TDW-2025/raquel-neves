@@ -4,11 +4,13 @@
   "private": true,
   "scripts": {
     "dev": "next dev --turbopack",
-    "build": "next build --turbopack",
+    "build": "next build",
     "start": "next start",
     "lint": "eslint src --ext .js,.jsx,.ts,.tsx",
     "prettier": "prettier --write .",
-    "test": "jest"
+    "test": "jest",
+    "test:update": "jest -u",
+    "export": "next build && next export"
   },
   "dependencies": {
     "@next/eslint-plugin-next": "^15.5.4",
