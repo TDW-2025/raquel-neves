@@ -1,4 +1,4 @@
-[![CI](https://github.com/TDW-2025/raquel-neves/actions/workflows/ci.yml/badge.svg)](https://github.com/TDW-2025/raquel-neves/actions/workflows/ci.yml) [![Lint](https://github.com/TDW-2025/raquel-neves/actions/workflows/lint.yml/badge.svg)](https://github.com/TDW-2025/raquel-neves/actions/workflows/lint.yml)
+[![CI](https://github.com/TDW-2025/raquel-neves/actions/workflows/ci.yml/badge.svg)](https://github.com/TDW-2025/raquel-neves/actions/workflows/ci.yml) 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
